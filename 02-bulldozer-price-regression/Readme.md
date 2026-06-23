@@ -72,7 +72,7 @@ Key features include: `YearMade`, `MachineHoursCurrentMeter`, `UsageBand`, `Encl
 
 ---
 
-## ▶️ Run
+## Run
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/c/bluebook-for-bulldozers/data) and place files inside `data/bluebook-for-bulldozers/`
 2. Run the notebook:
